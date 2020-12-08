@@ -1,6 +1,6 @@
-# huddinge-traningskarta
+# TR_IMMO
 
-Map showing places to exercise in Huddinge.
+React-Openlayers.
 
 ## Demo
 
