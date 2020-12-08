@@ -18,7 +18,7 @@ React-Openlayers.
 ## Setup
 
 ```bash
-cd huddinge-traningskarta
+cd tr_immo
 
 # install dependencies
 npm install
