@@ -2,10 +2,6 @@
 
 React-Openlayers.
 
-## Demo
-
-- [https://haggstrom.github.io/huddinge-traningskarta](https://haggstrom.github.io/huddinge-traningskarta/)
-
 ## Built with
 
 - [React.js](https://reactjs.org/)
