@@ -3,9 +3,10 @@
 }
 
 .popupCard {
-  width: 150px;
+  width: 200px;
 }
 
 .popupCard p {
   margin: 0px;
+  border-bottom: 1px solid #999;
 }
